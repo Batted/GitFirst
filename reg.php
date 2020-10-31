@@ -2,6 +2,8 @@
 if (session_status() == PHP_SESSION_NONE) {
     session_start();
 }
+//Бла бла бла
+//Бла бла бла
 ?>
 
 <!DOCTYPE html>
